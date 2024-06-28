@@ -1,0 +1,10 @@
+header {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: yellow;
+    padding: 30px 20px;
+    align-items: center;
+    color: black;
+    font-weight: 900;
+}
